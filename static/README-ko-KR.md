@@ -35,11 +35,11 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ==@2.58.81.221:80#United+States
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA0NDg2NywgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#United+States
+trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bolivia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.101.252:50099#Taiwan
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

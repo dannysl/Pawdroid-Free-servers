@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#Estados+Unidos
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjUzODE0NDVkLTZhZTQtNDk0OC1iNjFhLWExNmQ5NDk4ZDIxYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzMTQ2OSwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Marruecos
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#Holanda
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#Chile
+vmess://eyJhZGQiOiAicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlBvcnR1Z2FsIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#Holanda
+trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:4674?security=tls&sni=www.nintendogames.net#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Filipinas
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

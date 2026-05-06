@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAidmMuZmx5LmRldiIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMzUzNzkyMTktNjUzNS00ZjJlLWE0ZmUtM2U0NGY2MWUwZWVlIiwgImFpZCI6ICIzMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmMiLCAiaG9zdCI6ICJ2Yy5mbHkuZGV2IiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNdlp3ejdWRk5aalNYOFFFdVduMzU5ZEczQXJlQW9Xcm1nSzlVdDhEWnpMSzJSazFFeUxBRmo4U3JScXRvUVUzYkVKaFVUNTFFVG1xbXlZRmlGYm11MVJQdmluTFpxZ0w=@mx2.drawnrisha.one:55988#United+Kingdom
-vmess://eyJhZGQiOiAiMTU4LjUxLjEyMS42MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJpYnVzLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInNlcmlidXMub3JnIn0=
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:443#Singapore
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJoay5haWN2aWRlby5pbmZvIiwgInBvcnQiOiAiODgxMCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzcwNzViODMtMmQ4Zi00Yjc2LWI2ZmQtY2M4MjlhZTZkNzVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kZ3MiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuNDYiLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@169.150.242.77:990#Croatia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Morocco
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

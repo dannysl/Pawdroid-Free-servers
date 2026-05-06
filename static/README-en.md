@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@mfa.gov.ua:443?security=tls&sni=vless.lrdxw.club&type=ws&host=vless.lrdxw.club&path=%2F#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#United+Kingdom
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjUzODE0NDVkLTZhZTQtNDk0OC1iNjFhLWExNmQ5NDk4ZDIxYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzMTQ2OSwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#T%C3%BCrkiye
+trojan://humanity@104.17.150.76:443?sni=www.calmloud.com&type=ws&path=%2Fassignment&host=www.calmloud.com&alpn=http%2F1.1&fp=chrome#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970#India
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:443#Singapore
+trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
